@@ -20,7 +20,12 @@ Requirements: 1. Enable customers to select a combination of Chocolates for thei
               3.Display the total price of the custom pack, which should update automatically based on the selected items and their respective quantities.
               4.TOOLS: FOR Frantent: HTML5,CSS3,JAVASCRIPT (FRAMEWORK:BOOTSTRAP5)
                        FOR BACKEND: PYTHON,SQLITE (FRAMEWORK:DJANGO)
- # UI/UX or frantent-page:
-         ![task2frant](https://github.com/A81126/Unbundl_assignment/assets/117425136/ce615968-b4ae-41f2-ae5b-c3971a8d9bb9)
+ # UI/UX:
+ ![task2frant](https://github.com/A81126/Unbundl_assignment/assets/117425136/fb906406-e33d-4bf3-825c-aad4d65c13a3)
+ ![task2checkout](https://github.com/A81126/Unbundl_assignment/assets/117425136/edfd1aaf-f25f-4ad0-a50f-17eeab2adff5)
+ ![task2chart](https://github.com/A81126/Unbundl_assignment/assets/117425136/3ec1f511-3703-4501-b4b2-42f10d2c2237)
 
+
+
+         
             
